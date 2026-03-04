@@ -21,5 +21,6 @@ raindropio
 raycast
 spotify
 stats
+todoist
 trezor-suite
 zen@twilight
