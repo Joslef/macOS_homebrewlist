@@ -9,6 +9,7 @@ autojump
 bat
 bdw-gc
 bitwarden-cli
+borders
 brotli
 btop
 c-ares
@@ -47,6 +48,7 @@ gh
 gifgrep
 giflib
 glib
+glow
 gmp
 gnupg
 gnutls

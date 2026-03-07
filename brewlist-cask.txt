@@ -1,3 +1,4 @@
+aerospace
 alt-tab
 balenaetcher
 bitwarden
@@ -9,6 +10,7 @@ cyberghost-vpn
 dockey
 font-symbols-only-nerd-font
 ghostty
+google-chrome
 hiddenbar
 keka
 kitty
