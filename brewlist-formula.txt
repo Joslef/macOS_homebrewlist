@@ -61,6 +61,7 @@ guile
 harfbuzz
 hdrhistogram_c
 highway
+ical-buddy
 icu4c@76
 icu4c@77
 icu4c@78
@@ -131,6 +132,7 @@ little-cms2
 llhttp
 llvm@20
 lpeg
+lua
 luajit
 luv
 lz4
@@ -151,6 +153,7 @@ neovim
 net-snmp
 nettle
 node
+nowplaying-cli
 npth
 nspr
 nss
@@ -177,6 +180,7 @@ pixman
 pkgconf
 poppler
 protobuf
+protobuf@33
 pybind11
 pygments
 python-certifi
@@ -198,12 +202,15 @@ shaderc
 shared-mime-info
 shfmt
 simdjson
+sketchybar
 sleef
+socat
 speedtest
 spotify_player
 sqlite
 summarize
 svt-av1
+switchaudio-osx
 tcl-tk@8
 tesseract
 tidy-html5
