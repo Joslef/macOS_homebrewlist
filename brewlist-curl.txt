@@ -1,0 +1,4 @@
+# Packages installed via custom methods (taps, curl, manual)
+# Format: name|detection_command|install_command
+aerospace|test -d /Applications/AeroSpace.app|brew install --cask nikitabobko/tap/aerospace
+trezor-suite|test -d '/Applications/Trezor Suite.app'|brew install --cask trezor-suite
