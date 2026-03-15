@@ -44,7 +44,6 @@ gdbm
 gemini-cli
 gettext
 gh
-gifgrep
 giflib
 glib
 glow
@@ -52,7 +51,6 @@ gmp
 gnupg
 gnutls
 gogcli
-goplaces
 gpgme
 gpgmepp
 graphite2
@@ -67,7 +65,6 @@ icu4c@78
 imagemagick
 imath
 imlib2
-imsg
 isl
 jpeg-turbo
 jpeg-xl
@@ -171,7 +168,6 @@ opus
 p11-kit
 pango
 pcre2
-peekaboo
 php
 pinentry
 pipx
@@ -193,7 +189,6 @@ readline
 resvg
 ripgrep
 rubberband
-sag
 screenresolution
 sdl2
 sevenzip
@@ -207,7 +202,6 @@ socat
 speedtest
 spotify_player
 sqlite
-summarize
 svt-av1
 switchaudio-osx
 tcl-tk@8
@@ -228,7 +222,6 @@ vapoursynth
 virtualenv
 vulkan-headers
 vulkan-loader
-wacli
 webp
 wget
 x264
