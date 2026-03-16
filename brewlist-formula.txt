@@ -9,6 +9,7 @@ autojump
 bat
 bdw-gc
 bitwarden-cli
+borders
 brotli
 btop
 c-ares
