@@ -1,7 +1,7 @@
  409183694  Keynote          (14.5)
  409201541  Pages            (14.5)
  409203825  Numbers          (14.5)
- 463362050  PhotoSweeper     (5.4.1)
+ 463362050  PhotoSweeper     (5.5.0)
 1352778147  Bitwarden        (2026.2.1)
 1355679052  Dropover         (5.2.1)
 1450640351  Lightweight PDF  (1.4.1)
