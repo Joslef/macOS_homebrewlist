@@ -136,6 +136,7 @@ lz4
 lzo
 m4
 mas
+merve
 molten-vk
 mpdecimal
 mpfr
@@ -143,6 +144,7 @@ mpg123
 mplayer
 mpv
 mujs
+nbytes
 ncdu
 ncurses
 neofetch
@@ -156,6 +158,7 @@ nspr
 nss
 numpy
 oniguruma
+onnx
 openai-whisper
 openblas
 opencode
@@ -197,6 +200,7 @@ shaderc
 shared-mime-info
 shfmt
 simdjson
+simdutf
 sketchybar
 sleef
 socat
